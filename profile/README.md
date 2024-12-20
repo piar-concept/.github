@@ -26,18 +26,6 @@ We often work with:
 - **AI & Machine Learning**, integrating intelligent features that adapt and evolve.
 - **Modern Design Systems & Tools**, ensuring every digital product is visually cohesive and user-friendly.
 
-## Repositories & Future Plans
-
-This GitHub organization hosts a range of private repositories for ongoing projects and internal development:
-- **bluefieldjournal-client-bff (Nest.js API BFF)**
-- **bluefieldjournal-client-web (Next.js Website)**
-- **viralia-client-web (Next.js Website)**
-- **piar-concept-website (Piar Concept’s Official Site)**
-- **traips-architecture (Terraform-based Architectures)**
-- **traips-digital-platforms (TypeScript Platforms)**
-
-While these repositories are currently private, we may introduce public-facing projects in the future to share our knowledge and contribute to the open-source community.
-
 ## Contact & More Information
 
 - **Website:** [piarconcept.com](http://www.piarconcept.com)  
