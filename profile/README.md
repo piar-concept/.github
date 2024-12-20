@@ -42,6 +42,7 @@ While these repositories are currently private, we may introduce public-facing p
 
 - **Website:** [piarconcept.com](http://www.piarconcept.com)  
 - **LinkedIn:** [company/piar-concept](https://linkedin.com/company/piar-concept)  
+- **Instagram:** [@piarconcept](https://instagram.com/piarconcept)
 - **Email:** [polribasrovira@gmail.com](mailto:polribasrovira@gmail.com)
 
 If you have inquiries or wish to discuss potential collaborations, please reach out. Though we’re not accepting public contributions at this time, we value community engagement and may open select repositories or discussions in the future.
